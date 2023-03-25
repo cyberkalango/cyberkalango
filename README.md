@@ -15,7 +15,7 @@
  
  <br>
  
- ### Clica pra saber mais de mim!
+ ### Me segue nas redes sociais!
  
 <div> 
   <a href="https://www.youtube.com/channel/UC1b0Mq-J7WwtgGazbXinUdA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
