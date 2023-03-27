@@ -1,4 +1,4 @@
-## Bem vindo(a) ao meu cantinho,
+## Bem vindo(a) explorador,
 
 <div>
   <a href="https://github.com/cyberkalango">
@@ -15,7 +15,7 @@
  
  <br>
  
- ### Me segue nas redes sociais!
+ ### Para mais conteúdo sobre mim:
  
 <div> 
   <a href="https://www.youtube.com/channel/UC1b0Mq-J7WwtgGazbXinUdA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
